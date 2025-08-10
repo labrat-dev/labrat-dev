@@ -8,7 +8,9 @@ dev account where i scurry around testing and breaking stuff
 - repos that probably shouldn't see daylight
 - learning by running into walls
 
+
 [![Rat Based Development Certified](https://img.shields.io/badge/Rat%20Based%20Development-Certified-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 <details>
 <summary>lab rat metrics</summary>
