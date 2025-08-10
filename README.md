@@ -12,7 +12,7 @@ dev account where i scurry around testing and breaking stuff
 <summary>secret lab notes</summary>
 
 ```
-    (\   /)
+   (\   /)
    ( ._.)
   o_(")(")
 
