@@ -1,7 +1,8 @@
-   (\   /) <br/>
-   ( ._.) <br/>
-  o_(")(") <br/>
-
+```
+   (\   /)
+   ( ._.)
+  o_(")(")
+```
 ---
 
 dev account where i scurry around testing and breaking stuff
