@@ -1,6 +1,8 @@
-#   (\   /)
-#   ( ._.)
-#  o_(")(")
+   (\   /)
+   ( ._.)
+  o_(")(")
+
+---
 
 dev account where i scurry around testing and breaking stuff
 
@@ -41,7 +43,8 @@ day 250: currently running on 3 hours of sleep and pure determination
 day 255: the semicolon was missing. it's always the semicolon.
 ...
 
-cheese stash coordinates: localhost:3000/admin
+> cheese stash coordinates: localhost:3000/admin
+
 ꒰ა ˚₊ ✧・┈・╴・┈・╴・┈・╴・┈・╴・╴・┈・╴﹕꒰ ᐢ｡- ༝ -｡ᐢ ꒱﹕・┈・╴・┈・╴・┈・╴・┈・╴・╴・┈・╴𐑺 ‧₊˚໒꒱
 ```
 </details>
