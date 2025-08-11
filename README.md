@@ -1,4 +1,6 @@
-# 🐭
+#   (\   /)
+#   ( ._.)
+#  o_(")(")
 
 dev account where i scurry around testing and breaking stuff
 
@@ -20,9 +22,7 @@ dev account where i scurry around testing and breaking stuff
 <summary>secret lab notes</summary>
 
 ```
-   (\   /)
-   ( ._.)
-  o_(")(")
+꒰ა ˚₊ ✧・┈・╴・┈・╴・┈・╴・┈・╴・╴・┈・╴﹕꒰ ᐢ｡- ༝ -｡ᐢ ꒱﹕・┈・╴・┈・╴・┈・╴・┈・╴・╴・┈・╴𐑺 ‧₊˚໒꒱
 
 ...
 day 127: spent 3 hours debugging. typo in variable name.
@@ -42,6 +42,7 @@ day 255: the semicolon was missing. it's always the semicolon.
 ...
 
 cheese stash coordinates: localhost:3000/admin
+꒰ა ˚₊ ✧・┈・╴・┈・╴・┈・╴・┈・╴・╴・┈・╴﹕꒰ ᐢ｡- ༝ -｡ᐢ ꒱﹕・┈・╴・┈・╴・┈・╴・┈・╴・╴・┈・╴𐑺 ‧₊˚໒꒱
 ```
 </details>
 
